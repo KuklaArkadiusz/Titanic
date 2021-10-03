@@ -16,5 +16,5 @@ Libraries used:
 * matplotlib
 * seaborn
 * numpy
-* 
+
 Latest update: 03.10.2021
